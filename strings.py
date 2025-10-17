@@ -1,0 +1,8 @@
+a=input("Enter a string: ")
+b=a.lower()
+c=b.count("a")
+d=b.count("e")
+e=b.count("i")
+f=b.count("o")
+g=b.count("u")
+print("Number of vowels: ",e+d+e+f+g)
